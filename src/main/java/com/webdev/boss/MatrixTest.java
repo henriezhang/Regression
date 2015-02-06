@@ -5,6 +5,7 @@ import Jama.Matrix;
 /**
  * Created by Administrator on 2014/10/25 0025.
  */
+
 public class MatrixTest {
     public static void main(String[] args){
         double[][] array = {
